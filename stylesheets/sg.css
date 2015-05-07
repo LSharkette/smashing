@@ -1,0 +1,59 @@
+p {
+  margin:20px;
+  font-family:Arial;
+  text-align:center;
+}
+h1{
+  margin:20px;
+}
+.site-name{
+  background-color:#7fffd4;
+  text-align:center;
+  margin:42px;
+  font-size:44px;
+  color:violet;
+
+}
+.contact{
+    display:block;
+    text-align:center;
+    color:#20b2aa;
+    font-family:Serif;
+    font-size:40px;
+}
+ul{
+  margin:20px;
+  font-family:Arial;
+  color:violet;
+  text-align:center;
+  font-size:20px;
+}
+.nav{
+  text-align:center;
+  color:#20b2aa;
+  margin-top:145px;
+  font-size:45px;
+  }
+.photo1{
+  display:block;
+  text-align:center;
+  height:50px;
+
+}
+footer{
+  bottom-margin:20px;
+}
+.hero-title{
+  text-align:center;
+}
+.paws{
+  height:auto;
+  text-align:center;
+  display:block;
+  width:950px;
+  margin-left:40px;
+}
+.link{
+  background-color:violet;
+  font-size:30px;
+}
